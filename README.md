@@ -1,8 +1,14 @@
 # 👋 ¡Hola, soy Marcos!
 
-![Header](./banner.svg)
+<p align="center">
+  <img src="./banner.svg" alt="Banner de Marcos Plata Barahona" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=620&lines=Desarrollador+Backend+Java+%7C+Spring+Boot;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Construyendo+proyectos+con+prop%C3%B3sito)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=620&lines=Desarrollador+Backend+Java+%7C+Spring+Boot;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Construyendo+proyectos+con+prop%C3%B3sito" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
 
